@@ -11,6 +11,7 @@ I have great collaborators who make all this work possible. Thank you!
 <p class="p1">2. Case Studies in Network Community Detection. <strong>S. Shai, N. Stanley, C Granell, D. Taylor &amp; P.J. Mucha. </strong><a href="https://arxiv.org/pdf/1705.02305.pdf">arxiv</a></p>
 <p class="p1"><strong>Published:</strong></p>
 <p class="p1">1.Identifying Security Critical Properties for the Dynamic Verification of  a Processor. <strong>R. Zhang, N . Stanley, C. Griggs, A. Chi, C. Sturton.</strong> ASPLOS, 2017. <a href="http://cs.unc.edu/~rzhang/files/ASPLOS2017.pdf">paper</a></p>
+
 2. Clustering Network Layers With the Strata Multilayer Stochastic Block Model. <strong>N. Stanley, S. Shai, D. Taylor &amp; P.J. Mucha. <em> </em></strong><em>IEEE Transactions on Network Science and Engineering</em><strong><em>. </em><a href="http://ieeexplore.ieee.org/document/7442167/">paper</a></strong>
 
 3. Enhanced detectability of community structure in multilayer networks through layer aggregation <strong>D. Taylor, S Shai, N. Stanley, and P.J. Mucha. </strong><em>Physical Review Letters. </em><strong><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.228301">paper</a></strong>
