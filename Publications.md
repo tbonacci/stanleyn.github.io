@@ -8,11 +8,11 @@ I have great collaborators who make all this work possible. Thank you!
 
 <p class="p1"><strong>Pre Prints:</strong></p>
 
-<p class="p1">1. Compressing Networks with Super nodes. <strong>N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a></strong>. Under Review. </p> 
+<p class="p1">1. Compressing Networks with Super nodes. N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a>. Under Review. </p> 
 
 <p class="p1"><strong>Published:</strong></p>
 
-1.Case Studies in Network Community Detection. <strong> S. Shai, N . Stanley, C. Granell, D. Taylor, P.J. Mucha.</strong> Oxford Handbook of Social Networks.2017. <a href="https://arxiv.org/abs/1705.02305">paper</a> 
+1.Case Studies in Network Community Detection. S. Shai, N . Stanley, C. Granell, D. Taylor, P.J. Mucha. Oxford Handbook of Social Networks.2017. <a href="https://arxiv.org/abs/1705.02305">paper</a> 
 
 2.Identifying Security Critical Properties for the Dynamic Verification of  a Processor. R. Zhang, N . Stanley, C. Griggs, A. Chi, C. Sturton. ASPLOS.2017. <a href="http://cs.unc.edu/~rzhang/files/ASPLOS2017.pdf">paper</a>
 
