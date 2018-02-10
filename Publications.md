@@ -8,7 +8,7 @@ I have great collaborators who make all this work possible. Thank you!
 
 <p class="p1"><strong>Pre Prints:</strong></p>
 
-<p class="p1">1. Compressing Networks with Super nodes. <strong>N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a></strong></p>. Under Review. 
+<p class="p1">1. Compressing Networks with Super nodes. <strong>N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a></strong></p>.Under Review. 
 
 <p class="p1"><strong>Published:</strong></p>
 
