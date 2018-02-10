@@ -12,9 +12,9 @@ I have great collaborators who make all this work possible. Thank you!
 
 <p class="p1"><strong>Published:</strong></p>
 
-1.Case Studies in Network Community Detection. <strong> S. Shai, N . Stanley, C. Granell, D. Taylor, P.J. Mucha.</strong> Oxford Handbook of Social Networks, 2017. <a href="https://arxiv.org/abs/1705.02305">paper</a></strong>
+1.Case Studies in Network Community Detection. <strong> S. Shai, N . Stanley, C. Granell, D. Taylor, P.J. Mucha.</strong> Oxford Handbook of Social Networks, 2017. <a href="https://arxiv.org/abs/1705.02305">paper</a> 
 
-2.Identifying Security Critical Properties for the Dynamic Verification of  a Processor. <strong>R. Zhang, N . Stanley, C. Griggs, A. Chi, C. Sturton.</strong> ASPLOS, 2017. <a href="http://cs.unc.edu/~rzhang/files/ASPLOS2017.pdf">paper</a></strong>
+2.Identifying Security Critical Properties for the Dynamic Verification of  a Processor. R. Zhang, N . Stanley, C. Griggs, A. Chi, C. Sturton. ASPLOS, 2017. <a href="http://cs.unc.edu/~rzhang/files/ASPLOS2017.pdf">paper</a>
 
 3.Clustering Network Layers With the Strata Multilayer Stochastic Block Model. <strong>N. Stanley, S. Shai, D. Taylor &amp; P.J. Mucha. IEEE Transactions on Network Science and Engineering. 2016 <a href="http://ieeexplore.ieee.org/document/7442167/">paper</a></strong>
 
