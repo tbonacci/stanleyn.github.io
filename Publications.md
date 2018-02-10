@@ -6,7 +6,7 @@ title: Publications
 
 I have great collaborators who make all this work possible. Thank you!
 
-<img src="/img/CoAuthor.png" alt="Co Author Network" width="500" height="500">
+<img src="/img/CoAuthor.png" alt="Co Author Network">
 
 <p class="p1"><strong>Pre Prints:</strong></p>
 
