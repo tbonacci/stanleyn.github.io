@@ -22,6 +22,6 @@ I have great collaborators who make all this work possible. Thank you!
 
 5.Fenofibrate unexpectedly induces Cardiac Hypertrophy in Mice Lacking MuRF1.Parry, T. L., Desai, G., Schisler, J. C., Li, L., Quintana, M. T.,N. Stanley, ... &amp; M.S. Willis. Cardiovascular Pathology. 2015.<a href="http://www.cardiovascularpathology.com/article/S1054-8807(15)00119-2/abstract">paper</a></p>
 
-<strong>And let's not forget the PhD thesis!:</strong><a href="https://github.com/stanleyn/LaThese/blob/master/diss.pdf">paper</a> 
+<strong>And let's not forget the PhD thesis!: </strong><a href="https://github.com/stanleyn/LaThese/blob/master/diss.pdf">PDF</a> 
 
 
