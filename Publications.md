@@ -16,8 +16,8 @@ I have great collaborators who make all this work possible. Thank you!
 
 2.Identifying Security Critical Properties for the Dynamic Verification of  a Processor. R. Zhang, N . Stanley, C. Griggs, A. Chi, C. Sturton. ASPLOS.2017. <a href="http://cs.unc.edu/~rzhang/files/ASPLOS2017.pdf">paper</a>
 
-3.Clustering Network Layers With the Strata Multilayer Stochastic Block Model. N. Stanley, S. Shai, D. Taylor &amp; P.J. Mucha. IEEE Transactions on Network Science and Engineering. 2016 <a href="http://ieeexplore.ieee.org/document/7442167/">paper</a>
+3.Clustering Network Layers With the Strata Multilayer Stochastic Block Model. N. Stanley, S. Shai, D. Taylor &amp; P.J. Mucha. IEEE Transactions on Network Science and Engineering. 2016. <a href="http://ieeexplore.ieee.org/document/7442167/">paper</a>
 
-4.Enhanced detectability of community structure in multilayer networks through layer aggregation. D. Taylor, S Shai, N. Stanley, and P.J. Mucha.Physical Review Letters.2016 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.228301">paper</a>
+4.Enhanced detectability of community structure in multilayer networks through layer aggregation. D. Taylor, S Shai, N. Stanley, and P.J. Mucha.Physical Review Letters. 2016. <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.228301">paper</a>
 
-5.<strong> Fenofibrate unexpectedly induces Cardiac Hypertrophy in Mice Lacking MuRF1.Parry, T. L., Desai, G., Schisler, J. C., Li, L., Quintana, M. T., <strong> N. Stanley, ... &amp; M.S. Willis. Cardiovascular Pathology. 2015.<a href="http://www.cardiovascularpathology.com/article/S1054-8807(15)00119-2/abstract">paper</a>
+5. Fenofibrate unexpectedly induces Cardiac Hypertrophy in Mice Lacking MuRF1.Parry, T. L., Desai, G., Schisler, J. C., Li, L., Quintana, M. T., <strong> N. Stanley, ... &amp; M.S. Willis. Cardiovascular Pathology. 2015.<a href="http://www.cardiovascularpathology.com/article/S1054-8807(15)00119-2/abstract">paper</a>
