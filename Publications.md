@@ -6,6 +6,8 @@ title: Publications
 
 I have great collaborators who make all this work possible. Thank you!
 
+<img src="/img/CoAuthor.png" alt="Co Author Network">
+
 <p class="p1"><strong>Pre Prints:</strong></p>
 
 <p class="p1">1. Compressing Networks with Super nodes. N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a>. Under Review. </p> 
