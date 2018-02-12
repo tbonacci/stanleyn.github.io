@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://stanleyn.github.io"
+url: "http://tbonacci.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,25 +14,25 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Natalie Stanley
+title: Thomas Bonacci
 
 # Short description of your site
-description: PhD Student in Comp Bio
+description: Postdoc
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Publications: "Publications"
-  Reading: "Reading"
-  CV: "http://stanleyn.web.unc.edu/files/2017/11/NatalieStanleyResume2017.pdf"
-  Software: "Software"
-  NetModule: "https://networkanalysismodule.web.unc.edu"
-  Fun: "Fun"
+  #Publications: "Publications"
+  #Reading: "Reading"
+  #CV: "http://stanleyn.web.unc.edu/files/2017/11/NatalieStanleyResume2017.pdf"
+  #Software: "Software"
+  #NetModule: "https://networkanalysismodule.web.unc.edu"
+  #Fun: "Fun"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/MainPic.png"
+avatar: "/img/Thomas.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -72,13 +72,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "stanleyn@email.unc.edu"
+  email: "thomas.bonacci@gmail.com"
   #facebook: daattali
-  github: stanleyn
-  twitter: natstann
+  github: tbonacci
+  #twitter: natstann
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: "https://www.linkedin.com/in/natalie-stanley-b5197731/"
+  linkedin: "https://www.linkedin.com/in/thomas-bonacci-55527595/"
   #googlescholar: "https://scholar.google.com/citations?user=ak3dqLoAAAAJ&hl=en"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -93,7 +93,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
 
